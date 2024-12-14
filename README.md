@@ -5,6 +5,15 @@
 ![Screenshot_7](https://github.com/user-attachments/assets/4f547202-9e7c-4058-812e-5784d72c9cd4)
 
 
+# Abaixo está o link do vídeo e alguns prints
+
+https://github.com/leydesilva/lab-natty-or-not/blob/main/E-Learning.mp4
+
+![image](https://github.com/user-attachments/assets/c80a2155-b51d-466c-abb8-9273cac16b3f)
+
+![image](https://github.com/user-attachments/assets/712cd890-0819-46f1-a578-3ff239230394)
+
+
 
 
 
