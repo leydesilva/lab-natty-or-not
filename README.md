@@ -1,3 +1,13 @@
+# O meu projeto foi feito usando inteligência artificial CHATGPT para criar o roteiro e HEYGEN para criar o vídeo com avatar
+
+![Screenshot_8](https://github.com/user-attachments/assets/7095fa36-1a38-4818-9ae2-04ff04f8db74)
+
+![Screenshot_7](https://github.com/user-attachments/assets/4f547202-9e7c-4058-812e-5784d72c9cd4)
+
+
+
+
+
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
